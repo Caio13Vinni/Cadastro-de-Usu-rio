@@ -41,7 +41,7 @@ Este arquivo contém a lógica JavaScript para adicionar, editar, excluir e vali
 1. Clone este repositório para sua máquina local:
 
    ```sh
-   git clone https://github.com/seu-usuario/crud-usuarios.git
+   [git clone https://github.com/seu-usuario/crud-usuarios.git](https://github.com/Caio13Vinni/Cadastro-de-Usu-rio/tree/main)
 
 Abra o arquivo index.html em seu navegador.
 
